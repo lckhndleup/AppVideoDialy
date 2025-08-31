@@ -142,9 +142,3 @@ Doğrulamalar (Zod):
 - Veritabanı tek seferde açılır ve eşzamanlı API (expo-sqlite) ile çalışır.
 - Thumbnail üretimi `expo-video-thumbnails` ile yapılır; kalite/performans ayarlanabilir.
 - Arama hem SQLite üzerinden hem de local fallback ile yapılır.
-
----
-
-### Lisans
-
-Bu proje kişisel/özel kullanım içindir. Yayınlanacaksa lisans ekleyin.
